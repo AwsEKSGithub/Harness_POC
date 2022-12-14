@@ -1,0 +1,4 @@
+c:\users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness\bin\Harness.dll
+c:\users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness\bin\Harness.pdb
+c:\users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness\obj\Debug\Harness.dll
+c:\users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness\obj\Debug\Harness.pdb

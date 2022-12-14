@@ -1,0 +1,7 @@
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\bin\Debug\Harness_UnitTest.dll
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\bin\Debug\Harness_UnitTest.pdb
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\obj\Debug\Harness_UnitTest.csprojResolveAssemblyReference.cache
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\obj\Debug\Harness_UnitTest.dll
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\obj\Debug\Harness_UnitTest.pdb
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\bin\Debug\Harness.dll
+c:\Users\gopajit_malakar\documents\visual studio 2012\Projects\Harness\Harness_UnitTest\bin\Debug\Harness.pdb
